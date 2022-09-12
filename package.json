@@ -2,6 +2,7 @@
   "name": "platzi-gh-actions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://franmanez.github.io/platzi-gh-actions",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
